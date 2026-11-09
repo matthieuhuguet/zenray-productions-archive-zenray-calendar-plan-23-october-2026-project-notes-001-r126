@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-calendar-plan-23-october-2026",
- "scannedAt": "2026-11-09T12:30:51.428Z",
+ "scannedAt": "2026-11-09T18:32:19.976Z",
  "conversations": [
   {
    "projectId": "zenray-calendar-plan-23-october-2026",
@@ -48,7 +48,7 @@
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes dragon sculpt",
    "updatedAt": "2026-11-05T15:38:15.829Z",
-   "bytes": 58286,
+   "bytes": 58287,
    "boundProject": "zenray-meshes"
   },
   {
@@ -66,6 +66,22 @@
    "updatedAt": "2026-10-29T17:48:38.098Z",
    "bytes": 38168,
    "boundProject": "qlmarkdown-designs-25-october-2026"
+  },
+  {
+   "projectId": "zenray-calendar-plan-23-october-2026",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-09T15:24:06.796Z",
+   "last": "2026-11-09T15:24:06.796Z",
+   "strength": "weak",
+   "conversationId": "claude:db59f75b-cccf-46e4-a3ce-27e1c3aebd7b",
+   "provider": "claude",
+   "sessionId": "db59f75b-cccf-46e4-a3ce-27e1c3aebd7b",
+   "title": "Auditer le prompt Gemini de ZenRay Knight",
+   "updatedAt": "2026-11-09T15:31:29.723Z",
+   "bytes": 42059,
+   "boundProject": null
   },
   {
    "projectId": "zenray-calendar-plan-23-october-2026",
